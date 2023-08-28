@@ -3,8 +3,11 @@
 This is a project that I completed for my first semester submissions.**
 **
 import pandas as pd
+
 from openpyxl import Workbook
+
 from openpyxl.utils.dataframe import dataframe_to_rows
+
 import numpy as np
 
 
